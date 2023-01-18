@@ -1,0 +1,38 @@
+body{
+    padding-top: 0rem;
+    padding-left: 2rem;
+}
+
+nav{
+    padding: 1rem!important;
+    border-radius: 0.5rem!important;
+}
+
+.boton{
+    font-family: 'Noto Music', sans-serif!important;
+    font-size: 2rem!important;
+    margin-top: 0.3rem!important;
+}
+
+.botonB{
+    font-family: 'Noto Music', sans-serif!important;
+    font-size: 6.3rem!important;
+    margin: 0.1rem!important;
+    padding-top: 0.0001rem!important;
+    padding-bottom: 0rem!important;
+    border: 0.1rem!important;
+}
+
+.botonLimpiar{
+    font-family: 'Noto Music', sans-serif!important;
+    font-size: 1rem!important;
+    margin: 0.3rem!important;
+}
+
+#selector{
+    margin: 0.5rem!important;
+}
+
+#contenido{
+    margin-top: 5rem!important;
+}
